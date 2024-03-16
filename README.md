@@ -40,3 +40,13 @@ i learned about how to better measure my SIR through time and efficiency
 I've also learned about some Cascading style sheet by having it either in-line or outline
 i've also enumerated the steps that i need to take
 </pre>
+3/16/2024
+<pre>
+progressed through the first course, but I skipped the last 2 course
+because it was mainly talking about css, i was able to finish the survey form though 
+so i guess that's great
+got the certificate though
+also was able to study a bit for the course of learning, and dwelled on the codedex problems.
+but didn't study for NAT exams
+planning to finish atleast one certificate and then study for NAT exams but i guess lots of events will be happening
+</pre>
