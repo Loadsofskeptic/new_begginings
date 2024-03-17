@@ -24,6 +24,7 @@ One thing though is that I need to know how to write documentation and be knowle
   <li>TryHackme.com</li>
   <li>Hackerone.com</li>
   <li>Owasp.org</li>
+  <li>hacksplaining</li>
 </ul>
 <h5>Programming</h5>
 <ul type = "square">
@@ -49,4 +50,17 @@ got the certificate though
 also was able to study a bit for the course of learning, and dwelled on the codedex problems.
 but didn't study for NAT exams
 planning to finish atleast one certificate and then study for NAT exams but i guess lots of events will be happening
+</pre>
+3/17/2024
+<pre>
+was able to complete the topic installing and configuring systems in the E-tesda course
+worked on a bit with CSS, and was able to finish one certification project in html
+was able to learn a new site for cybersecurity which is hacksplaining
+probably would go look back at Icanstudy course then work on the data structures
+and algorithm of primeagen. Then make a project based from it.
+my main goal for now is to make a project that I will only be using which can help
+with my productivity, i tried also implementing the make file in c/c++ and noticed that
+I have forgotten most of the commands in c/c++ 😢
+but i guess i don't know what path to take.
+I'm planning to first go and find the project that I want to work on.
 </pre>
