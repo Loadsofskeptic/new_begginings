@@ -63,4 +63,6 @@ with my productivity, i tried also implementing the make file in c/c++ and notic
 I have forgotten most of the commands in c/c++ 😢
 but i guess i don't know what path to take.
 I'm planning to first go and find the project that I want to work on.
+oh note for tomorrow go watch this: "<a href = "https://frontendmasters.com/courses/algorithms/introduction/">video</a>"
+then prestudy cybersecurity
 </pre>
