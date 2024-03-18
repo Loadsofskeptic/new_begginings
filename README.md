@@ -1,13 +1,13 @@
 <h1>NEW BENIGNINGS</h1>
-<pre>This is really just the beginning of me trying out github, since i kinda need this for the industry.
-Therefore I'm just exposing myself on how this works, and right now I'm looking at this <a href = "https://github.com/hackergrrl/art-of-readme">article</a> 
-which talks about how README's are important documentation tools, mainly for modules on how it would work, 
-and right now I find it important I guess.
-One thing though is that I need to know how to write documentation and be knowledgeable about the navigation of github.</pre>
+<pre>This is just the beginning of me trying out GitHub since I need this for the industry.
+Therefore I'm just exposing myself on how this works, and right now I'm looking at this <a href = "https://github.com/hackergrrl/art-of-readme">article</a>,  
+which talks about how READMEs are important documentation tools, mainly for modules on how it would work. 
+Right now I find it important, I guess...
+One thing though is that I need to know how to write documentation and be knowledgeable about the navigation of GitHub.</pre>
 <br>Well that looks lengthy so my first steps would be:
 <table>
   <tr>
-    <td>be familiar about repositories and continuously try and do commit/ add/ push to be able to be knowledgeable about it</td>
+    <td>Be familiar with repositories and continuously try and do commit/ add/ push to gain proficiency.</td>
   </tr>
   
   <tr>
@@ -15,7 +15,7 @@ One thing though is that I need to know how to write documentation and be knowle
   </tr>
   
   <tr>
-    <td>i also need to know what are the commands here lol since apparently bullets are this punctuation right here</td>
+    <td>Know the commands since apparently bullets are this punctuation right here '-'.</td>
   </tr>
 </table>
 <br>
@@ -35,21 +35,20 @@ One thing though is that I need to know how to write documentation and be knowle
 </ul>
 3/15/2024
 <pre>
-i can use hypertext mark up language in here and that
-i've been able to do some retrieved execution
-i learned about how to better measure my SIR through time and efficiency
-I've also learned about some Cascading style sheet by having it either in-line or outline
-i've also enumerated the steps that i need to take
+I can use hypertext markup language on here and that
+I've been able to do some retrieved execution
+I learned about how to better measure my SIR through time and efficiency
+I've also learned about some Cascading style Sheet by having it either in-line or outline
+I've also enumerated the steps that I need to take
 </pre>
 3/16/2024
 <pre>
 progressed through the first course, but I skipped the last 2 course
-because it was mainly talking about css, i was able to finish the survey form though 
-so i guess that's great
-got the certificate though
+because it was mainly talking about CSS, I was able to finish the survey form though, 
+so I guess that's great and got the certificate though
 also was able to study a bit for the course of learning, and dwelled on the codedex problems.
-but didn't study for NAT exams
-planning to finish atleast one certificate and then study for NAT exams but i guess lots of events will be happening
+but didn't study for NAT exams and I plan to finish 
+at least one certificate and then study for NAT exams but I guess lots of events will be happening
 </pre>
 3/17/2024
 <pre>
