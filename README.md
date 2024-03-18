@@ -66,3 +66,10 @@ I'm planning to first go and find the project that I want to work on.
 oh note for tomorrow go watch this: "<a href = "https://frontendmasters.com/courses/algorithms/introduction/">video</a>"
 then prestudy cybersecurity
 </pre>
+3/18/2024
+<pre>
+wasn't able to work on the certificates
+was able to find and finish my kolb's template
+was able to work on some of my school work
+planning to do what I mentioned earlier for tomorrow.
+</pre>
