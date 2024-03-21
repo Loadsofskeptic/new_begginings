@@ -72,3 +72,19 @@ was able to find and finish my kolb's template
 was able to work on some of my school work
 planning to do what I mentioned earlier for tomorrow.
 </pre>
+3/19/2024
+<pre>
+worked on html file but sucked so i'm planning to learn how
+started with the algorithm course
+played rlcraft whole day progressed by defeating rahovart
+</pre>
+3/20/2024
+<pre>
+watch some primeagen vids and played rlcraft
+</pre>
+3/21/2024
+<pre>
+just finished nat exam
+hanged out w/ friends so i guess i improved socially
+file got corrupted so i had to defeat rahovart again
+</pre>
