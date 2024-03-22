@@ -88,3 +88,10 @@ just finished nat exam
 hanged out w/ friends so i guess i improved socially
 file got corrupted so i had to defeat rahovart again
 </pre>
+3/22/2024
+<pre>
+<image src = "https://media.discordapp.net/attachments/814676072649719808/1220735406115520632/image.png?ex=66100570&is=65fd9070&hm=a1ca1b760774979215020263437aea13788225ec551c0886acf2b4ae58cf7497&=&format=webp&quality=lossless&width=756&height=364">
+did div layouting, html, and progressed in rlcraft but lost advance mending.... 
+will try to do the toggleable sidebar in html
+will also try to fix the conveyor bug in the tycoon game of roblox
+</pre>
