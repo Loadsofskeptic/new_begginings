@@ -97,6 +97,6 @@ will also try to fix the conveyor bug in the tycoon game of roblox
 </pre>
 3/23/2024
 
-<img src = "https://media.discordapp.net/attachments/675285778154258439/1220896761690984559/431540360_122237040062001441_6917348927591967035_n.png?ex=66109bb7&is=65fe26b7&hm=7d4e2d871ad63d33fbdfd8a7fb863b4d768b2250c9fbd3b087f1b906ccac4067&=&format=webp&quality=lossless&width=431&height=481" style = "margin-left: auto; margin-right: auto; width: 100px; height: 100px;">
+<img src = "https://media.discordapp.net/attachments/675285778154258439/1220896761690984559/431540360_122237040062001441_6917348927591967035_n.png?ex=66109bb7&is=65fe26b7&hm=7d4e2d871ad63d33fbdfd8a7fb863b4d768b2250c9fbd3b087f1b906ccac4067&=&format=webp&quality=lossless&width=431&height=481" style = "margin-left: auto; margin-right: auto;">
 <pre>
 </pre>
