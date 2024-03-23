@@ -99,4 +99,9 @@ will also try to fix the conveyor bug in the tycoon game of roblox
 
 <img src = "https://media.discordapp.net/attachments/675285778154258439/1220896761690984559/431540360_122237040062001441_6917348927591967035_n.png?ex=66109bb7&is=65fe26b7&hm=7d4e2d871ad63d33fbdfd8a7fb863b4d768b2250c9fbd3b087f1b906ccac4067&=&format=webp&quality=lossless&width=431&height=481" style = "margin-left: auto; margin-right: auto;">
 <pre>
+played rlcraft and i was able to get advance protection IV, 
+then worked on the layout of the publication material for easter sunday,
+then watched some videos of primeagen, but haven't really scheduled yet
+i guess the most memorable thing for today is that i was able to do digital painting.
+then watched some of marco bucci's vids
 </pre>
