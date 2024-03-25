@@ -1,4 +1,4 @@
-![image](https://github.com/Loadsofskeptic/new_begginings/assets/89771718/10573ff0-d328-405c-988f-dd8b1ef65c24)<h1>NEW BENIGNINGS</h1>
+<h1>NEW BENIGNINGS</h1>
 <pre>This is just the beginning of me trying out GitHub since I need this for the industry.
 Therefore I'm just exposing myself on how this works, and right now I'm looking at this <a href = "https://github.com/hackergrrl/art-of-readme">article</a>,  
 which talks about how READMEs are important documentation tools, mainly for modules on how it would work. 
