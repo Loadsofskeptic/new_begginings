@@ -1,4 +1,4 @@
-<h1>NEW BENIGNINGS</h1>
+![image](https://github.com/Loadsofskeptic/new_begginings/assets/89771718/10573ff0-d328-405c-988f-dd8b1ef65c24)<h1>NEW BENIGNINGS</h1>
 <pre>This is just the beginning of me trying out GitHub since I need this for the industry.
 Therefore I'm just exposing myself on how this works, and right now I'm looking at this <a href = "https://github.com/hackergrrl/art-of-readme">article</a>,  
 which talks about how READMEs are important documentation tools, mainly for modules on how it would work. 
@@ -104,4 +104,15 @@ then worked on the layout of the publication material for easter sunday,
 then watched some videos of primeagen, but haven't really scheduled yet
 i guess the most memorable thing for today is that i was able to do digital painting.
 then watched some of marco bucci's vids
+</pre>
+
+3/24/2024
+<pre>
+continued with the drawing stuff the wholeee day
+</pre>
+
+3/25/2024
+<img src = "[blob:https://www.messenger.com/b6c06d8c-b41d-425a-b029-1170550db476](https://media.discordapp.net/attachments/811893541378326579/1221739560632061972/easter_sunday.png?ex=6613aca2&is=660137a2&hm=faf359728145e7cccebeaea9b02dd0a62cca221122d9f6088d0e2258f6c97fab&=&format=webp&quality=lossless&width=482&height=481)https://media.discordapp.net/attachments/811893541378326579/1221739560632061972/easter_sunday.png?ex=6613aca2&is=660137a2&hm=faf359728145e7cccebeaea9b02dd0a62cca221122d9f6088d0e2258f6c97fab&=&format=webp&quality=lossless&width=482&height=481">
+<pre>
+finished the drawing
 </pre>
