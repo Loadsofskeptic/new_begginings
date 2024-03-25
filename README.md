@@ -112,7 +112,7 @@ continued with the drawing stuff the wholeee day
 </pre>
 
 3/25/2024
-<img src = "[blob:https://www.messenger.com/b6c06d8c-b41d-425a-b029-1170550db476](https://media.discordapp.net/attachments/811893541378326579/1221739560632061972/easter_sunday.png?ex=6613aca2&is=660137a2&hm=faf359728145e7cccebeaea9b02dd0a62cca221122d9f6088d0e2258f6c97fab&=&format=webp&quality=lossless&width=482&height=481)https://media.discordapp.net/attachments/811893541378326579/1221739560632061972/easter_sunday.png?ex=6613aca2&is=660137a2&hm=faf359728145e7cccebeaea9b02dd0a62cca221122d9f6088d0e2258f6c97fab&=&format=webp&quality=lossless&width=482&height=481">
+<img src = "https://media.discordapp.net/attachments/811893541378326579/1221739560632061972/easter_sunday.png?ex=6613aca2&is=660137a2&hm=faf359728145e7cccebeaea9b02dd0a62cca221122d9f6088d0e2258f6c97fab&=&format=webp&quality=lossless&width=602&height=599">
 <pre>
 finished the drawing
 </pre>
