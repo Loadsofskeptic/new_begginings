@@ -121,5 +121,7 @@ finished the drawing
 <pre>
 did 50 knee pushups, and i felt great,
 still haven't defeated the boss in rlcraft, also learned about meta's, media types, flex box, but it's all theory, still ened some practice
-apparently you can use libraries in html via the "link" tag
+apparently you can use libraries in html via the "link" tag, so bootstrap might be good.
+so Sass(scss) is just another modification of css like typescript and adds more functionalities like variables, 
+nested tags, and the ability to use % but i'll probably look at the documentary
 </pre>
