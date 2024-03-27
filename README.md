@@ -125,3 +125,9 @@ apparently you can use libraries in html via the "link" tag, so bootstrap might 
 so Sass(scss) is just another modification of css like typescript and adds more functionalities like variables, 
 nested tags, and the ability to use % but i'll probably look at the documentary
 </pre>
+
+2/27/2024
+<pre>
+well i'm more immersed in git since i'm able to practice git add/ commit/ push/ pull now reallllly fun,
+also learning how to make a website right now, would be nice if i could continue this for tomorrow
+</pre>
