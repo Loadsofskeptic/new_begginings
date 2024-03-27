@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>
+            Kreffle and Icy Koppi
+        </title>
+        <style>
+
+            @font-face {
+                font-family: bryndanWrite;
+                src: url(BryndanWriteBook-nGPM.ttf);
+            }
+
+            body {
+                background-color: #F7DFD5;
+            }
+            
+            .div-class {
+                height: auto;
+                width: 90%;
+                margin-left: auto;
+                margin-right: auto;
+                background-color: rgba(236, 204, 193,1);
+            }
+            
+            .fontformat{
+                font-family: "bryndanWrite", "sans-serif", "Arial";
+            }
+
+            .right-align
+            {
+                float: right;
+                padding-left: 10px;
+                padding-right: 10px;
+                display: inline-block;
+            }
+
+            .vertical-align{
+                margin-top: auto;
+                margin-bottom: auto;
+            }
+
+            #restaurant-name
+            {
+                color: white;
+            }
+
+            #header-div {
+                display: flex;
+                top: 0;
+                left: 0;
+                position: sticky;
+                width: 100%;
+            }
+            
+            #logo {
+                width: 100px; 
+                height: 100px; 
+                display: inline;
+            }
+
+            a {
+                text-decoration: none;
+                color: rgba(98, 63, 54,1);
+            }
+
+            a:hover {
+                background-color: rgba(203, 157, 93,1);
+            }
+            
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class = "div-class" id = "header-div">
+                <figure>
+                    <img id = "logo" alt = "Image of a girl with a pancake hat, sipping through cold coffee, and surrounded by coffee and waffle."id = "header-img" src = "https://media.discordapp.net/attachments/814676072649719808/1222519773955362877/Creffle_and_Icy_Koppi_4.png?ex=66168343&is=66040e43&hm=4bbc7ef5e4e33ce8c597cb3d34bbabf2ef69cd0b2f35f1061211e30c7b54ff6a&=&format=webp&quality=lossless">
+                </figure>
+                <h1 id = "restaurant-name" style = "font-weight: bold;"class = "fontformat vertical-align">Creffle and Icy Koppi</h1>
+                <!-- the nav button links here-->
+                <div class = "vertical-align" style = "height: auto; width: auto; margin-left: auto; margin-right: 5px;">
+                        <a href = "#menu" class = "fontformat right-align">
+                            <h1>Menu</h1>
+                        </a>
+                        <a href = "#order-form" class = "fontformat right-align">
+                            <h1>Order</h1>
+                        </a>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div>
+                <p id = "menu">sucky</p>
+            </div>
+            <div>
+                <form id = "order-form">
+                    <fieldset>
+                        <legend>
+                            <select>
+                                <option disabled selected value>-- Select an order </option>
+                                <option value = "icy-koppi">Icy Koppi</option>
+                                <option value = "crepe">Crepe</option>
+                                <option value = "waffle">Waffle</option>
+                            </select>
+                        </legend>
+                    </fieldset>
+                </form>
+            </div>
+        </main>
+        <footer>
+            <!-- contact details-->
+            <!-- social media details-->
+        </footer>
+    </body>
+</html>
+<!--
+//The HTML file should be properly structured (Hint: start with <!DOCTYPE html>).
+
+//A <title> element with the restaurant name should be included in the <head> element.
+
+A header section that features:
+
+//An image with an id of "header-img".
+//A <h1> heading element with the name of the restaurant.
+//A navigation section with two headings for "#menu" and "#order-form".
+A main section for the menu and order form, featuring:
+
+Two sections, each with a <h2> heading that says "Menu" and "Place Your Order".
+The "Menu" section should have at least three <article> elements for the menu items that use the following elements:
+An <img> image element.
+A <h3> element for the name of the menu item.
+A <p> paragraph element that briefly describes the item (1-2 sentences) and includes price information (italicized).
+The "Place Your Order" section must include a <form> element with the following inputs:
+Number inputs for each menu item (make sure to validate input with a minimum of 0).
+Radio and/or checkbox inputs for things like sides and add-ons.
+At least one <textarea> element for one of the items (for special requests).
+A submit input that says "Go To Checkout".
+Note: Make sure to include a <label> element for each <input> element.
+A footer that includes a <p> paragraph element that reads "Made with love by " followed by your Codédex username.
+-->
