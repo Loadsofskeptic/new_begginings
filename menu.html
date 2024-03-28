@@ -22,6 +22,7 @@
                 margin-left: auto;
                 margin-right: auto;
                 background-color: rgba(236, 204, 193,1);
+                border-radius: 10px;
             }
             
             .fontformat{
@@ -30,7 +31,7 @@
 
             .right-align
             {
-                float: right;
+                margin-left: auto;
                 padding-left: 10px;
                 padding-right: 10px;
                 display: inline-block;
@@ -43,7 +44,25 @@
 
             #restaurant-name
             {
+                font-size: 3em;
                 color: white;
+                -webkit-text-stroke: 0.3px;
+                -webkit-text-stroke-color: rgba(196, 150, 88,1);
+            }
+
+            .grid-container {
+                height: auto;
+                width: auto;
+                display: grid;
+                grid-template-columns: auto auto auto;
+                align-items: center;
+                padding: 100px;
+            }
+
+            .menu-image {
+                width: 15em;
+                height: 15em;
+                border-radius: 2.5em;
             }
 
             #header-div {
@@ -58,6 +77,10 @@
                 width: 100px; 
                 height: 100px; 
                 display: inline;
+                left: 0;
+                margin-left:-1em;
+                margin-right:-1em;
+                border-radius:10em;
             }
 
             a {
@@ -67,44 +90,76 @@
 
             a:hover {
                 background-color: rgba(203, 157, 93,1);
+                border-radius: 10px; 
             }
             
         </style>
     </head>
-    <body>
+    <body class = "fontformat">
         <!-- what-->
         <header>
             <div class = "div-class" id = "header-div">
                 <figure>
                     <img id = "logo" alt = "Image of a girl with a pancake hat, sipping through cold coffee, and surrounded by coffee and waffle."id = "header-img" src = "https://media.discordapp.net/attachments/814676072649719808/1222519773955362877/Creffle_and_Icy_Koppi_4.png?ex=66168343&is=66040e43&hm=4bbc7ef5e4e33ce8c597cb3d34bbabf2ef69cd0b2f35f1061211e30c7b54ff6a&=&format=webp&quality=lossless">
                 </figure>
-                <h1 id = "restaurant-name" style = "font-weight: bold;"class = "fontformat vertical-align">Creffle and Icy Koppi</h1>
+                <h1 id = "restaurant-name" class = "vertical-align">Creffle and Icy Koppi</h1>
                 <!-- the nav button link here-->
-                <div class = "vertical-align" style = "height: auto; width: auto; margin-left: auto; margin-right: 5px;">
-                        <a href = "#menu" class = "fontformat right-align">
-                            <h1>Menu</h1>
+                <div class = "vertical-align" style = "padding: 10px; width: auto; margin-left: auto; margin-right: 5px;">
+                        <a href = "#menu" class = "right-align">
+                            <p style = "font-size: 2em">Menu</p>
                         </a>
-                        <a href = "#order-form" class = "fontformat right-align">
-                            <h1>Order</h1>
+                        <a href = "#order" class = "right-align">
+                            <p style = "font-size: 2em">Order</p>
                         </a>
                 </div>
             </div>
         </header>
         <main>
-            <div>
-                <p id = "menu">description here</p>
+            <h1 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px;">Menu</h1>
+            <div class = "div-class grid-container" style = "text-align: center;">
+                <article>
+                    <img class = "menu-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713103831040/waffle.png?ex=6617f225&is=66057d25&hm=230b8c444ed90d2eac788546566abf8de40e26a94c4d15c79cccc199f34e4ce1&=&format=webp&quality=lossless">
+                    <h3>Waffle</h3>
+                    <p id = "menu">description here (1-2) sentences</p><i><p class = "price">price here</p></i>
+                </article>
+                <article>
+                    <img class = "menu-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713527324694/crepe.png?ex=6617f225&is=66057d25&hm=737bf002fdf3ecaad83fe1889313c2687df1dfdbc24eecb47d31078178ab41a0&=&format=webp&quality=lossless">
+                    <h3>Crepe</h3>
+                    <p id = "menu">description here (1-2) sentences</p><i><p class = "price">price here</p></i>
+                </article>
+                <article>
+                    <img class = "menu-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713854611606/koppi.png?ex=6617f226&is=66057d26&hm=bb054b32f12a6d6386b5dfe5932901d4d2ffcc501fc5b706eecf2edd287dae2a&=&format=webp&quality=lossless">
+                    <h3>Ice Coffee</h3>
+                    <p id = "menu">description here (1-2) sentences</p><i><p class = "price">price here</p></i>
+                </article>
             </div>
-            <div>
+            <hr>
+            <h2>Place Your Order</h2>
+            <div id = "order">
                 <p>form here</p>
-                <form id = "order-form">
-                        <legend>
-                            <select>
-                                <option disabled selected value>-- Select an order </option>
-                                <option value = "icy-koppi">Icy Koppi</option>
-                                <option value = "crepe">Crepe</option>
-                                <option value = "waffle">Waffle</option>
-                            </select>
-                        </legend>
+                <form id = "order-form" action = "">
+                    <select>
+                        <option disabled selected value>-- Select an order </option>
+                        <option value = "icy-koppi">Icy Koppi</option>
+                        <option value = "crepe">Crepe</option>
+                        <option value = "waffle">Waffle</option>
+                    </select>
+                    <input type = "number" min = "1" max = "100" placeholder = "0">
+                    <select>
+                        <option disabled selected value>-- Select an order </option>
+                        <option value = "icy-koppi">Icy Koppi</option>
+                        <option value = "crepe">Crepe</option>
+                        <option value = "waffle">Waffle</option>
+                    </select>
+                    <input type = "number" min = "1" max = "100" placeholder = "0">
+                    <select>
+                        <option disabled selected value>-- Select an order </option>
+                        <option value = "icy-koppi">Icy Koppi</option>
+                        <option value = "crepe">Crepe</option>
+                        <option value = "waffle">Waffle</option>
+                    </select>
+                    <input type = "number" min = "1" max = "100" placeholder = "0">
+                    <input type="submit" value = "Go To Checkout">
                 </form>
             </div>
         </main>
@@ -119,23 +174,24 @@
 
 //A <title> element with the restaurant name should be included in the <head> element.
 
-A header section that features:
+//A header section that features:
 
 //An image with an id of "header-img".
 //A <h1> heading element with the name of the restaurant.
 //A navigation section with two headings for "#menu" and "#order-form".
+
 A main section for the menu and order form, featuring:
 
-Two sections, each with a <h2> heading that says "Menu" and "Place Your Order".
-The "Menu" section should have at least three <article> elements for the menu items that use the following elements:
-An <img> image element.
-A <h3> element for the name of the menu item.
-A <p> paragraph element that briefly describes the item (1-2 sentences) and includes price information (italicized).
+//Two sections, each with a <h2> heading that says "Menu" and "Place Your Order".
+//The "Menu" section should have at least three <article> elements for the menu items that use the following elements:
+//An <img> image element.
+//A <h3> element for the name of the menu item.
+//A <p> paragraph element that briefly describes the item (1-2 sentences) and includes price information (italicized).
 The "Place Your Order" section must include a <form> element with the following inputs:
 Number inputs for each menu item (make sure to validate input with a minimum of 0).
 Radio and/or checkbox inputs for things like sides and add-ons.
 At least one <textarea> element for one of the items (for special requests).
-A submit input that says "Go To Checkout".
+//A submit input that says "Go To Checkout".
 Note: Make sure to include a <label> element for each <input> element.
 A footer that includes a <p> paragraph element that reads "Made with love by " followed by your Codédex username.
 -->
