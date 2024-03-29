@@ -1,7 +1,9 @@
+<!-- proper structure html checked-->
 <!DOCTYPE html>
 <html lang = "en">
     <head>
         <meta charset = "UTF-8">
+        <!-- title element checked-->
         <title>
             Kreffle and Icy Koppi
         </title>
@@ -118,7 +120,7 @@
                 text-justify: inter-word;
             }
 
-            #logo 
+            #header-img 
             {
                 width: 100px; 
                 height: 100px; 
@@ -168,11 +170,12 @@
         <header>
             <section>
                 <div class = "div-class" id = "header-div">
+                    <!--header image checked-->
                     <figure>
-                        <img id = "logo" alt = "Image of a girl with a pancake hat, sipping through cold coffee, and surrounded by coffee and waffle."id = "header-img" src = "https://media.discordapp.net/attachments/814676072649719808/1222519773955362877/Creffle_and_Icy_Koppi_4.png?ex=66168343&is=66040e43&hm=4bbc7ef5e4e33ce8c597cb3d34bbabf2ef69cd0b2f35f1061211e30c7b54ff6a&=&format=webp&quality=lossless">
+                        <img id = "header-img" alt = "Image of a girl with a pancake hat, sipping through cold coffee, and surrounded by coffee and waffle."id = "header-img" src = "https://media.discordapp.net/attachments/814676072649719808/1222519773955362877/Creffle_and_Icy_Koppi_4.png?ex=66168343&is=66040e43&hm=4bbc7ef5e4e33ce8c597cb3d34bbabf2ef69cd0b2f35f1061211e30c7b54ff6a&=&format=webp&quality=lossless">
                     </figure>
                     <h1 id = "restaurant-name" class = "vertical-align">Creffle and Icy Koppi</h1>
-                    <!-- the nav button link here-->
+                    <!-- the nav button section here-->
                     <div id = "nav-buttons" class = "vertical-align" style = "padding: 10px; width: auto; margin-left: auto; margin-right: 5px;">
                             <a href = "#menu" class = "right-align inlineBlock">
                                 <p style = "font-size: 2em">Menu</p>
@@ -186,12 +189,17 @@
         </header>
         <main>
             <section>
-            <h1 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px;">Menu</h1>
+            <!-- h2 heading menu checked-->
+            <h2 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px;">Menu</h2>
             <div class = "div-class grid-container" style = "text-align: center;">
+                <!-- article elements checked-->
                 <a href = "#waffle">
                     <article class = "article-grid">
+                        <!-- img element checked-->
                         <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713103831040/waffle.png?ex=6617f225&is=66057d25&hm=230b8c444ed90d2eac788546566abf8de40e26a94c4d15c79cccc199f34e4ce1&=&format=webp&quality=lossless">
+                        <!-- h3 element checked-->
                         <h3>Waffle</h3>
+                        <!-- p description checked-->
                         <div class = "description-div">
                             <p class = "description">a waffle in a stick, customizeable with your chosen flavors</p>
                         </div>
@@ -221,8 +229,10 @@
             </div>
             </section>
             <section>
+                <!-- h2 heading place your order checked-->
                 <h2 style = "background-color: rgba(236, 204, 193,1); border-radius: 10px; height: auto; text-align: center;">Place Your Order</h2>
                 <div id = "order" class = "div-class" style = "padding-top: 10px; padding-bottom: 10px; padding-left: 15px;">
+                    <!-- form checked-->
                     <form id = "order-form" action = "">
                         <div style = "margin-top: 10px; margin-bottom: 10px;">
                             <label for = "waffle">
@@ -230,6 +240,7 @@
                                 <h3 class = "inlineBlock" style = "margin-left: 5px; margin-right: 10px;">Waffle</h3>
                                 <div class = "inlineBlock" style = "background-color:#F7DFD5; border-radius: 10px; padding: 0 5px 0 5px; margin-left: auto;">
                                     <p class = "inlineBlock" style = "margin-left: 10px;">Amount: </p>
+                                    <!-- minimum 0 input checked-->
                                     <input type = "number" min = "0" placeholder = "0">
                                     <p class = "inlineBlock" style = "margin-left: 10px;">Flavors: </p>    
                                     <select>
@@ -239,6 +250,8 @@
                                         <option value = "waffle-cheese-cheese">Waffle cheese grated with cheese</option>
                                         <option value = "waffle-chocolate-chocolate">Waffle chocolate drizzled with chocolate</option>
                                     </select>
+                                    <!-- radio and checkbox checked-->
+                                    <!-- label elements checked-->
                                     <p class = "inlineBlock" style = "margin-left: 10px;">Toppings: </p>
                                     <label for = "none"><input type = "radio" id = "none" name = "topping" value = "none" checked>None</label>
                                     <label for = "marshmallow"><input type = "radio" id = "marshmallow" name = "topping" value = "marshmallow">Marshmallow</label>
@@ -273,9 +286,10 @@
                             </label>
                         </div>
                         <div>
+                            <!--text area checked-->
                             <label for = "specialrequests"><h2>special requests: </h2></label><textarea id = "specialrequests" rows = "5" cols = "100px">very cool</textarea>
                         </div>
-                        <!--submit button-->
+                        <!--submit button checked-->
                         <input type="submit" value = "Go To Checkout" style = "margin-top:10px;"onclick = "alertClick()">
                     </form>
                 </div>
