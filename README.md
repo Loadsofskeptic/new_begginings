@@ -131,3 +131,13 @@ nested tags, and the ability to use % but i'll probably look at the documentary
 well i'm more immersed in git since i'm able to practice git add/ commit/ push/ pull now reallllly fun,
 also learning how to make a website right now, would be nice if i could continue this for tomorrow
 </pre>
+
+2/28/2024
+<pre>
+played rlcraft, but worked on the website, pretty nice
+</pre>
+
+2/29/2024
+<pre>
+worked on the website and actually finished it right now
+</pre>
