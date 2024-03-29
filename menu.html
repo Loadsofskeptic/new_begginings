@@ -84,7 +84,11 @@
             }
             .price
             {
-                padding-top: -100px;
+                color: white;
+                -webkit-text-stroke-color: black;
+                -webkit-text-stroke-width: 0.4px;
+                font-weight: bolder;
+                font-size: 2em;
             }
             #header-div 
             {
@@ -95,6 +99,24 @@
                 width: 100%;
             }
             
+            .description-div {
+                width: 80%;
+                height: 4em;
+                padding-left: 10px;
+                padding-right: 10px;
+                border-radius: 10px;
+                padding-top: 0.5;
+                padding-bottom: 10px;
+                background-color: rgba(192, 148, 120,1);
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .description {
+                text-align: justify;
+                text-justify: inter-word;
+            }
+
             #logo 
             {
                 width: 100px; 
@@ -112,10 +134,14 @@
                 color: rgba(98, 63, 54,1);
             }
 
-            a:hover 
+            #nav-buttons a:hover 
             {
                 background-color: rgba(203, 157, 93,1);
                 border-radius: 10px; 
+            }
+
+            article:hover {
+                opacity: 0.5;
             }
             
             
@@ -124,76 +150,100 @@
     <body class = "fontformat">
         <!-- what-->
         <header>
-            <div class = "div-class" id = "header-div">
-                <figure>
-                    <img id = "logo" alt = "Image of a girl with a pancake hat, sipping through cold coffee, and surrounded by coffee and waffle."id = "header-img" src = "https://media.discordapp.net/attachments/814676072649719808/1222519773955362877/Creffle_and_Icy_Koppi_4.png?ex=66168343&is=66040e43&hm=4bbc7ef5e4e33ce8c597cb3d34bbabf2ef69cd0b2f35f1061211e30c7b54ff6a&=&format=webp&quality=lossless">
-                </figure>
-                <h1 id = "restaurant-name" class = "vertical-align">Creffle and Icy Koppi</h1>
-                <!-- the nav button link here-->
-                <div class = "vertical-align" style = "padding: 10px; width: auto; margin-left: auto; margin-right: 5px;">
-                        <a href = "#menu" class = "right-align inlineBlock">
-                            <p style = "font-size: 2em">Menu</p>
-                        </a>
-                        <a href = "#order" class = "right-align inlineBlock">
-                            <p style = "font-size: 2em">Order</p>
-                        </a>
+            <section>
+                <div class = "div-class" id = "header-div">
+                    <figure>
+                        <img id = "logo" alt = "Image of a girl with a pancake hat, sipping through cold coffee, and surrounded by coffee and waffle."id = "header-img" src = "https://media.discordapp.net/attachments/814676072649719808/1222519773955362877/Creffle_and_Icy_Koppi_4.png?ex=66168343&is=66040e43&hm=4bbc7ef5e4e33ce8c597cb3d34bbabf2ef69cd0b2f35f1061211e30c7b54ff6a&=&format=webp&quality=lossless">
+                    </figure>
+                    <h1 id = "restaurant-name" class = "vertical-align">Creffle and Icy Koppi</h1>
+                    <!-- the nav button link here-->
+                    <div id = "nav-buttons" class = "vertical-align" style = "padding: 10px; width: auto; margin-left: auto; margin-right: 5px;">
+                            <a href = "#menu" class = "right-align inlineBlock">
+                                <p style = "font-size: 2em">Menu</p>
+                            </a>
+                            <a href = "#order" class = "right-align inlineBlock">
+                                <p style = "font-size: 2em">Order</p>
+                            </a>
+                    </div>
                 </div>
-            </div>
+            </section>
         </header>
         <main>
+            <section>
             <h1 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px;">Menu</h1>
             <div class = "div-class grid-container" style = "text-align: center;">
-                <article class = "article-grid">
-                    <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713103831040/waffle.png?ex=6617f225&is=66057d25&hm=230b8c444ed90d2eac788546566abf8de40e26a94c4d15c79cccc199f34e4ce1&=&format=webp&quality=lossless">
-                    <h3>Waffle</h3>
-                    <p class = "description">a waffle in a stick, customizeable with your chosen flavors</p>
-                    <p class = "price">price here</p>
-                </article>
-                <article class = "article-grid">
-                    <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713527324694/crepe.png?ex=6617f225&is=66057d25&hm=737bf002fdf3ecaad83fe1889313c2687df1dfdbc24eecb47d31078178ab41a0&=&format=webp&quality=lossless">
-                    <h3>Crepe</h3>
-                    <p class = "description">Crepe drizzled w/ chocolate and assorted banana and strawberry</p>
-                    <p class = "price">price here</p>
-                </article>
-                <article class = "article-grid">
-                    <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713854611606/koppi.png?ex=6617f226&is=66057d26&hm=bb054b32f12a6d6386b5dfe5932901d4d2ffcc501fc5b706eecf2edd287dae2a&=&format=webp&quality=lossless">
-                    <h3>Ice Coffee</h3>
-                    <p class = "description">Savor the perfect blend of premium coffee and refreshing ice, expertly crafted to deliver a symphony of flavors in every sip.</p>
-                    <p class = "price">price here</p</i>
-                </article>
+                <a href = "#waffle">
+                    <article class = "article-grid">
+                        <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713103831040/waffle.png?ex=6617f225&is=66057d25&hm=230b8c444ed90d2eac788546566abf8de40e26a94c4d15c79cccc199f34e4ce1&=&format=webp&quality=lossless">
+                        <h3>Waffle</h3>
+                        <div class = "description-div">
+                            <p class = "description">a waffle in a stick, customizeable with your chosen flavors</p>
+                        </div>
+                            <p class = "price">0.55$</p>
+                    </article>
+                </a>
+                <a> 
+                    <article class = "article-grid">
+                        <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713527324694/crepe.png?ex=6617f225&is=66057d25&hm=737bf002fdf3ecaad83fe1889313c2687df1dfdbc24eecb47d31078178ab41a0&=&format=webp&quality=lossless">
+                        <h3>Crepe</h3>
+                        <div class = "description-div">
+                            <p class = "description">Crepe drizzled w/ chocolate and assorted banana and strawberry</p>
+                        </div>
+                        <p class = "price">1.10$</p>
+                    </article>
+                </a>
+                <a> 
+                    <article class = "article-grid">
+                        <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713854611606/koppi.png?ex=6617f226&is=66057d26&hm=bb054b32f12a6d6386b5dfe5932901d4d2ffcc501fc5b706eecf2edd287dae2a&=&format=webp&quality=lossless">
+                        <h3>Ice Coffee</h3>
+                        <div class = "description-div">
+                            <p class = "description">Savor the perfect blend of premium coffee and refreshing ice, expertly crafted to deliver a symphony of flavors in every sip.</p>
+                        </div>
+                        <p class = "price">0.9$</p</i>
+                    </article>
+                </a>
             </div>
-            <h2 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px; height: auto;">Place Your Order</h2>
-            <div id = "order">
-                <form id = "order-form" action = "">
-                    <h3>Waffle</h3>
-                    <article>
-                        <p class = "inlineBlock">Amount:</p>
-                        <input type = "number" min = "1" placeholder = "0">
+            </section>
+            <section>
+                <h2 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px; height: auto;">Place Your Order</h2>
+                <div id = "order" class = "div-class">
+                    <form id = "order-form" action = "">
+                        <div>
+                            <h3 id = "waffle">Waffle</h3>
+                            <p class = "inlineBlock">Amount:</p>
+                            <input type = "number" min = "1" placeholder = "0">
+                            <select>
+                                <option disabled selected value>-- Select an order </option>
+                                <option value = "icy-koppi">Icy Koppi</option>
+                                <option value = "crepe">Crepe</option>
+                                <option value = "waffle">Waffle</option>
+                            </select>
+                        </div>
+                        <div>
+                            <h3 id = "waffle">Crepe</h3>
+                        </div>
+                        <div>
+                            <h3 id = "waffle">Ice Coffee</h3>
+                        </div>
+                        <input type = "number" min = "1" max = "100" placeholder = "0">
                         <select>
                             <option disabled selected value>-- Select an order </option>
                             <option value = "icy-koppi">Icy Koppi</option>
                             <option value = "crepe">Crepe</option>
                             <option value = "waffle">Waffle</option>
                         </select>
-                    </article>
-                    <input type = "number" min = "1" max = "100" placeholder = "0">
-                    <select>
-                        <option disabled selected value>-- Select an order </option>
-                        <option value = "icy-koppi">Icy Koppi</option>
-                        <option value = "crepe">Crepe</option>
-                        <option value = "waffle">Waffle</option>
-                    </select>
-                    <input type = "number" min = "1" max = "100" placeholder = "0">
-                    <select>
-                        <option disabled selected value>-- Select an order </option>
-                        <option value = "icy-koppi">Icy Koppi</option>
-                        <option value = "crepe">Crepe</option>
-                        <option value = "waffle">Waffle</option>
-                    </select>
-                    <input type = "number" min = "1" max = "100" placeholder = "0">
-                    <input type="submit" value = "Go To Checkout">
-                </form>
-            </div>
+                        <input type = "number" min = "1" max = "100" placeholder = "0">
+                        <select>
+                            <option disabled selected value>-- Select an order </option>
+                            <option value = "icy-koppi">Icy Koppi</option>
+                            <option value = "crepe">Crepe</option>
+                            <option value = "waffle">Waffle</option>
+                        </select>
+                        <input type = "number" min = "1" max = "100" placeholder = "0">
+                        <input type="submit" value = "Go To Checkout">
+                    </form>
+                </div>
+            </section>
         </main>
         <footer>
             <!-- contact details-->
