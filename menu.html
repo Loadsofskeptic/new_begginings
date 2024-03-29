@@ -12,7 +12,8 @@
                 src: url(BryndanWriteBook-nGPM.ttf);
             }
 
-            body {
+            body 
+            {
                 background-color: #F7DFD5;
             }
             
@@ -34,6 +35,10 @@
                 margin-left: auto;
                 padding-left: 10px;
                 padding-right: 10px;
+            }
+
+            .inlineBlock
+            {
                 display: inline-block;
             }
 
@@ -47,25 +52,42 @@
                 font-size: 3em;
                 color: white;
                 -webkit-text-stroke: 0.3px;
-                -webkit-text-stroke-color: rgba(196, 150, 88,1);
+                -webkit-text-stroke-color: rgba(192, 148, 120,1);
             }
 
-            .grid-container {
+            .grid-container 
+            {
                 height: auto;
-                width: auto;
+                margin-left:auto;
+                margin-right:auto;
                 display: grid;
-                grid-template-columns: auto auto auto;
+                grid-gap: 15px;
+                grid-template-columns: 25em 25em 30em;
                 align-items: center;
-                padding: 100px;
+                padding-left: 3%;
+                padding-top: 1.25%;
+                padding-bottom: 1.25%;
+                
             }
 
-            .menu-image {
+            .article-grid
+            {
+                background-color: #F7DFD5;
+                padding: 5px;
+                border-radius: 5px;;
+            }
+            .item-image 
+            {
                 width: 15em;
                 height: 15em;
                 border-radius: 2.5em;
             }
-
-            #header-div {
+            .price
+            {
+                padding-top: -100px;
+            }
+            #header-div 
+            {
                 display: flex;
                 top: 0;
                 left: 0;
@@ -73,7 +95,8 @@
                 width: 100%;
             }
             
-            #logo {
+            #logo 
+            {
                 width: 100px; 
                 height: 100px; 
                 display: inline;
@@ -83,15 +106,18 @@
                 border-radius:10em;
             }
 
-            a {
+            a 
+            {
                 text-decoration: none;
                 color: rgba(98, 63, 54,1);
             }
 
-            a:hover {
+            a:hover 
+            {
                 background-color: rgba(203, 157, 93,1);
                 border-radius: 10px; 
             }
+            
             
         </style>
     </head>
@@ -105,10 +131,10 @@
                 <h1 id = "restaurant-name" class = "vertical-align">Creffle and Icy Koppi</h1>
                 <!-- the nav button link here-->
                 <div class = "vertical-align" style = "padding: 10px; width: auto; margin-left: auto; margin-right: 5px;">
-                        <a href = "#menu" class = "right-align">
+                        <a href = "#menu" class = "right-align inlineBlock">
                             <p style = "font-size: 2em">Menu</p>
                         </a>
-                        <a href = "#order" class = "right-align">
+                        <a href = "#order" class = "right-align inlineBlock">
                             <p style = "font-size: 2em">Order</p>
                         </a>
                 </div>
@@ -117,33 +143,39 @@
         <main>
             <h1 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px;">Menu</h1>
             <div class = "div-class grid-container" style = "text-align: center;">
-                <article>
-                    <img class = "menu-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713103831040/waffle.png?ex=6617f225&is=66057d25&hm=230b8c444ed90d2eac788546566abf8de40e26a94c4d15c79cccc199f34e4ce1&=&format=webp&quality=lossless">
+                <article class = "article-grid">
+                    <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713103831040/waffle.png?ex=6617f225&is=66057d25&hm=230b8c444ed90d2eac788546566abf8de40e26a94c4d15c79cccc199f34e4ce1&=&format=webp&quality=lossless">
                     <h3>Waffle</h3>
-                    <p id = "menu">description here (1-2) sentences</p><i><p class = "price">price here</p></i>
+                    <p class = "description">a waffle in a stick, customizeable with your chosen flavors</p>
+                    <p class = "price">price here</p>
                 </article>
-                <article>
-                    <img class = "menu-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713527324694/crepe.png?ex=6617f225&is=66057d25&hm=737bf002fdf3ecaad83fe1889313c2687df1dfdbc24eecb47d31078178ab41a0&=&format=webp&quality=lossless">
+                <article class = "article-grid">
+                    <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713527324694/crepe.png?ex=6617f225&is=66057d25&hm=737bf002fdf3ecaad83fe1889313c2687df1dfdbc24eecb47d31078178ab41a0&=&format=webp&quality=lossless">
                     <h3>Crepe</h3>
-                    <p id = "menu">description here (1-2) sentences</p><i><p class = "price">price here</p></i>
+                    <p class = "description">Crepe drizzled w/ chocolate and assorted banana and strawberry</p>
+                    <p class = "price">price here</p>
                 </article>
-                <article>
-                    <img class = "menu-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713854611606/koppi.png?ex=6617f226&is=66057d26&hm=bb054b32f12a6d6386b5dfe5932901d4d2ffcc501fc5b706eecf2edd287dae2a&=&format=webp&quality=lossless">
+                <article class = "article-grid">
+                    <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713854611606/koppi.png?ex=6617f226&is=66057d26&hm=bb054b32f12a6d6386b5dfe5932901d4d2ffcc501fc5b706eecf2edd287dae2a&=&format=webp&quality=lossless">
                     <h3>Ice Coffee</h3>
-                    <p id = "menu">description here (1-2) sentences</p><i><p class = "price">price here</p></i>
+                    <p class = "description">Savor the perfect blend of premium coffee and refreshing ice, expertly crafted to deliver a symphony of flavors in every sip.</p>
+                    <p class = "price">price here</p</i>
                 </article>
             </div>
-            <hr>
-            <h2>Place Your Order</h2>
+            <h2 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px; height: auto;">Place Your Order</h2>
             <div id = "order">
-                <p>form here</p>
                 <form id = "order-form" action = "">
-                    <select>
-                        <option disabled selected value>-- Select an order </option>
-                        <option value = "icy-koppi">Icy Koppi</option>
-                        <option value = "crepe">Crepe</option>
-                        <option value = "waffle">Waffle</option>
-                    </select>
+                    <h3>Waffle</h3>
+                    <article>
+                        <p class = "inlineBlock">Amount:</p>
+                        <input type = "number" min = "1" placeholder = "0">
+                        <select>
+                            <option disabled selected value>-- Select an order </option>
+                            <option value = "icy-koppi">Icy Koppi</option>
+                            <option value = "crepe">Crepe</option>
+                            <option value = "waffle">Waffle</option>
+                        </select>
+                    </article>
                     <input type = "number" min = "1" max = "100" placeholder = "0">
                     <select>
                         <option disabled selected value>-- Select an order </option>
@@ -195,3 +227,27 @@ At least one <textarea> element for one of the items (for special requests).
 Note: Make sure to include a <label> element for each <input> element.
 A footer that includes a <p> paragraph element that reads "Made with love by " followed by your Codédex username.
 -->
+
+
+1.10$
+
+Original Crepe
+Crepe drizzled w/ chocolate and assorted banana and strawberry
+
+Strawberry Crepe
+Crepe drizzled w/ chocolate and strawberry only.
+
+Banana Crepe
+Crepe drizzled w/ chocolate and banana only.
+
+
+0.55$ one 0.9$ for two
+- Waffle cheese drizzled with chocolate
+- Waffle chocolate grated with cheese 
+- Waffle cheese grated with cheese
+- Chocolate drizzled with chocolate. 
+
+Toppings: Marshmallow; Sprinkles
+
+0.9$
+- Savor the perfect blend of premium coffee and refreshing ice, expertly crafted to deliver a symphony of flavors in every sip. 
