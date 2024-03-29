@@ -62,9 +62,10 @@
                 margin-right:auto;
                 display: grid;
                 grid-gap: 15px;
-                grid-template-columns: 25em 25em 30em;
+                grid-template-columns: auto auto auto;
                 align-items: center;
                 padding-left: 3%;
+                padding-right: 3%;
                 padding-top: 1.25%;
                 padding-bottom: 1.25%;
                 
@@ -144,10 +145,25 @@
                 opacity: 0.5;
             }
             
+            .footer-div {
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 0.5%;
+                width: 97.5%;
+                height: auto;
+                background-color:rgba(236, 204, 193,1);
+                text-align: center;
+            }
             
         </style>
     </head>
     <body class = "fontformat">
+        <script>
+            function alertClick()
+            {
+                alert("Normally, this would take you to confirmation and credentials, but i still don't know how to do that, so for now here's an alert box");
+            }
+        </script>
         <!-- what-->
         <header>
             <section>
@@ -182,7 +198,7 @@
                             <p class = "price">0.55$</p>
                     </article>
                 </a>
-                <a> 
+                <a href = "#crepe"> 
                     <article class = "article-grid">
                         <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713527324694/crepe.png?ex=6617f225&is=66057d25&hm=737bf002fdf3ecaad83fe1889313c2687df1dfdbc24eecb47d31078178ab41a0&=&format=webp&quality=lossless">
                         <h3>Crepe</h3>
@@ -192,7 +208,7 @@
                         <p class = "price">1.10$</p>
                     </article>
                 </a>
-                <a> 
+                <a href = "#ice-coffee"> 
                     <article class = "article-grid">
                         <img class = "item-image" src = "https://media.discordapp.net/attachments/814676072649719808/1222913713854611606/koppi.png?ex=6617f226&is=66057d26&hm=bb054b32f12a6d6386b5dfe5932901d4d2ffcc501fc5b706eecf2edd287dae2a&=&format=webp&quality=lossless">
                         <h3>Ice Coffee</h3>
@@ -205,99 +221,70 @@
             </div>
             </section>
             <section>
-                <h2 style = "text-align: center; background-color: rgba(236, 204, 193,1); border-radius: 10px; height: auto;">Place Your Order</h2>
-                <div id = "order" class = "div-class">
+                <h2 style = "background-color: rgba(236, 204, 193,1); border-radius: 10px; height: auto; text-align: center;">Place Your Order</h2>
+                <div id = "order" class = "div-class" style = "padding-top: 10px; padding-bottom: 10px; padding-left: 15px;">
                     <form id = "order-form" action = "">
-                        <div>
-                            <h3 id = "waffle">Waffle</h3>
-                            <p class = "inlineBlock">Amount:</p>
-                            <input type = "number" min = "1" placeholder = "0">
-                            <select>
-                                <option disabled selected value>-- Select an order </option>
-                                <option value = "icy-koppi">Icy Koppi</option>
-                                <option value = "crepe">Crepe</option>
-                                <option value = "waffle">Waffle</option>
-                            </select>
+                        <div style = "margin-top: 10px; margin-bottom: 10px;">
+                            <label for = "waffle">
+                                <input type = "checkbox" value = "waffle" id = "waffle" class = "inlineBlock">
+                                <h3 class = "inlineBlock" style = "margin-left: 5px; margin-right: 10px;">Waffle</h3>
+                                <div class = "inlineBlock" style = "background-color:#F7DFD5; border-radius: 10px; padding: 0 5px 0 5px; margin-left: auto;">
+                                    <p class = "inlineBlock" style = "margin-left: 10px;">Amount: </p>
+                                    <input type = "number" min = "0" placeholder = "0">
+                                    <p class = "inlineBlock" style = "margin-left: 10px;">Flavors: </p>    
+                                    <select>
+                                        <option disabled selected value>-- None --</option>
+                                        <option value = "waffle-cheese-chocolate">Waffle cheese drizzled with chocolate</option>
+                                        <option value = "waffle-chocolate-cheese">Waffle chocolate grated with cheese</option>
+                                        <option value = "waffle-cheese-cheese">Waffle cheese grated with cheese</option>
+                                        <option value = "waffle-chocolate-chocolate">Waffle chocolate drizzled with chocolate</option>
+                                    </select>
+                                    <p class = "inlineBlock" style = "margin-left: 10px;">Toppings: </p>
+                                    <label for = "none"><input type = "radio" id = "none" name = "topping" value = "none" checked>None</label>
+                                    <label for = "marshmallow"><input type = "radio" id = "marshmallow" name = "topping" value = "marshmallow">Marshmallow</label>
+                                    <label for = "sprinkles"><input type = "radio" id = "sprinkles"name = "topping" value = "sprinkles">Sprinkles</label>
+                                </div>
+                            </label>
+                        <div style = "margin-top: 10px; margin-bottom: 10px;">
+                            <label for = "crepe">
+                                <input type = "checkbox" value = "crepe" id = "crepe" class = "inlineBlock">
+                                <h3 class = "inlineBlock" style = "margin-left: 5px; margin-right: 10px;">Crepe</h3>
+                                <div class = "inlineBlock" style = "background-color:#F7DFD5; border-radius: 10px; padding: 0 5px 0 5px; margin-left: auto;">
+                                    <p class = "inlineBlock" style = "margin-left: 10px;">Amount: </p>
+                                    <input type = "number" min = "0" placeholder = "0">
+                                    <p class = "inlineBlock" style = "margin-left: 10px;">Flavors: </p>    
+                                    <select>
+                                        <option disabled selected value>-- None --</option>
+                                        <option value = "original">Original</option>
+                                        <option value = "strawberry">Strawberry</option>
+                                        <option value = "banana">Banana</option>
+                                    </select>
+                                </div>
+                            </label>
+                        </div>
+                        <div style = "margin-top: 10px; margin-bottom: 10px;">
+                            <label for = "ice-coffee">
+                                <input type = "checkbox" value = "ice-coffee" id = "ice-coffee" class = "inlineBlock">
+                                <h3 class = "inlineBlock" style = "margin-left: 5px; margin-right: 10px;">Ice Coffee</h3>
+                                <div class = "inlineBlock" style = "background-color:#F7DFD5; border-radius: 10px; padding: 0 5px 0 5px; margin-left: auto;">
+                                    <p class = "inlineBlock" style = "margin-left: 10px;">Amount: </p>
+                                    <input type = "number" min = "0" placeholder = "0">
+                                </div>
+                            </label>
                         </div>
                         <div>
-                            <h3 id = "waffle">Crepe</h3>
+                            <label for = "specialrequests"><h2>special requests: </h2></label><textarea id = "specialrequests" rows = "5" cols = "100px">very cool</textarea>
                         </div>
-                        <div>
-                            <h3 id = "waffle">Ice Coffee</h3>
-                        </div>
-                        <input type = "number" min = "1" max = "100" placeholder = "0">
-                        <select>
-                            <option disabled selected value>-- Select an order </option>
-                            <option value = "icy-koppi">Icy Koppi</option>
-                            <option value = "crepe">Crepe</option>
-                            <option value = "waffle">Waffle</option>
-                        </select>
-                        <input type = "number" min = "1" max = "100" placeholder = "0">
-                        <select>
-                            <option disabled selected value>-- Select an order </option>
-                            <option value = "icy-koppi">Icy Koppi</option>
-                            <option value = "crepe">Crepe</option>
-                            <option value = "waffle">Waffle</option>
-                        </select>
-                        <input type = "number" min = "1" max = "100" placeholder = "0">
-                        <input type="submit" value = "Go To Checkout">
+                        <!--submit button-->
+                        <input type="submit" value = "Go To Checkout" style = "margin-top:10px;"onclick = "alertClick()">
                     </form>
                 </div>
             </section>
         </main>
         <footer>
+            <div class = "footer-div">made with love by @kistian5rctan43154</div>
             <!-- contact details-->
             <!-- social media details-->
         </footer>
     </body>
 </html>
-<!--
-//The HTML file should be properly structured (Hint: start with <!DOCTYPE html>).
-
-//A <title> element with the restaurant name should be included in the <head> element.
-
-//A header section that features:
-
-//An image with an id of "header-img".
-//A <h1> heading element with the name of the restaurant.
-//A navigation section with two headings for "#menu" and "#order-form".
-
-A main section for the menu and order form, featuring:
-
-//Two sections, each with a <h2> heading that says "Menu" and "Place Your Order".
-//The "Menu" section should have at least three <article> elements for the menu items that use the following elements:
-//An <img> image element.
-//A <h3> element for the name of the menu item.
-//A <p> paragraph element that briefly describes the item (1-2 sentences) and includes price information (italicized).
-The "Place Your Order" section must include a <form> element with the following inputs:
-Number inputs for each menu item (make sure to validate input with a minimum of 0).
-Radio and/or checkbox inputs for things like sides and add-ons.
-At least one <textarea> element for one of the items (for special requests).
-//A submit input that says "Go To Checkout".
-Note: Make sure to include a <label> element for each <input> element.
-A footer that includes a <p> paragraph element that reads "Made with love by " followed by your Codédex username.
--->
-
-
-1.10$
-
-Original Crepe
-Crepe drizzled w/ chocolate and assorted banana and strawberry
-
-Strawberry Crepe
-Crepe drizzled w/ chocolate and strawberry only.
-
-Banana Crepe
-Crepe drizzled w/ chocolate and banana only.
-
-
-0.55$ one 0.9$ for two
-- Waffle cheese drizzled with chocolate
-- Waffle chocolate grated with cheese 
-- Waffle cheese grated with cheese
-- Chocolate drizzled with chocolate. 
-
-Toppings: Marshmallow; Sprinkles
-
-0.9$
-- Savor the perfect blend of premium coffee and refreshing ice, expertly crafted to deliver a symphony of flavors in every sip. 
