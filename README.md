@@ -141,3 +141,8 @@ played rlcraft, but worked on the website, pretty nice
 <pre>
 worked on the website and actually finished it right now
 </pre>
+
+3/30/2024
+<pre>
+worked on the cs50w first problem would continue later on at 3/31/24
+</pre>
