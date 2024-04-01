@@ -151,3 +151,9 @@ worked on the cs50w first problem would continue later on at 3/31/24
 <pre>
 finished the advanced search functionality for cs50w, probably gonna style it for now.
 </pre>
+
+4/1/2024
+<pre>
+did a bit of marginal gains, watched a bit about queue for primeagen's data structures and algorithms, then started a bit on cs50's cybersecurity:
+I've actually learned that it's much better to have your password be managed by a password manager.
+</pre>
