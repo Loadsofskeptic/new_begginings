@@ -157,3 +157,8 @@ finished the advanced search functionality for cs50w, probably gonna style it fo
 did a bit of marginal gains, watched a bit about queue for primeagen's data structures and algorithms, then started a bit on cs50's cybersecurity:
 I've actually learned that it's much better to have your password be managed by a password manager.
 </pre>
+
+4/2/2024
+<pre>
+watched a bit of the cs50w tutorial course, tried doing prestudy but failed, worked a bit on codedex, not a day that i was expecting but still moved forward even if it's just a little bit.
+</pre>
