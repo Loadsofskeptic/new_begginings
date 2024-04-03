@@ -162,3 +162,8 @@ I've actually learned that it's much better to have your password be managed by 
 <pre>
 watched a bit of the cs50w tutorial course, tried doing prestudy but failed, worked a bit on codedex, not a day that i was expecting but still moved forward even if it's just a little bit.
 </pre>
+
+4/3/2024
+<pre>
+  finish the heading and footer of the site, planning to fix the footing abit, add abit of google logo, and work on the body
+</pre>
