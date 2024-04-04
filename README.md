@@ -167,3 +167,9 @@ watched a bit of the cs50w tutorial course, tried doing prestudy but failed, wor
 <pre>
   finish the heading and footer of the site, planning to fix the footing abit, add abit of google logo, and work on the body
 </pre>
+4/4/2024
+<pre>
+new issue found at entreprenuer project where quantity isn't stated, also solved a problem in geometry,
+then went on ahead learned a bit of selectors in css and noticed that having the documentation open is-
+plentiful and really helpful
+</pre>
