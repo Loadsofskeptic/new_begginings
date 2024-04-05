@@ -173,3 +173,8 @@ new issue found at entreprenuer project where quantity isn't stated, also solved
 then went on ahead learned a bit of selectors in css and noticed that having the documentation open is-
 plentiful and really helpful
 </pre>
+4/5/2024
+<pre>
+started with the body, and managed to actually finish it damn, loved that i was able to finish the required
+look. This can be seen here: https://www.codedex.io/community/30-nites-of-code/mmCu6yadIewUOJqIXOFp
+</pre>
