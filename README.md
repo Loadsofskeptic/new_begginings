@@ -178,3 +178,7 @@ plentiful and really helpful
 started with the body, and managed to actually finish it damn, loved that i was able to finish the required
 look. This can be seen here: https://www.codedex.io/community/30-nites-of-code/mmCu6yadIewUOJqIXOFp
 </pre>
+
+<pre>
+some editing for mil and then some copywriting
+</pre>
