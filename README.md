@@ -178,7 +178,15 @@ plentiful and really helpful
 started with the body, and managed to actually finish it damn, loved that i was able to finish the required
 look. This can be seen here: https://www.codedex.io/community/30-nites-of-code/mmCu6yadIewUOJqIXOFp
 </pre>
-
+4/6/2024
 <pre>
 some editing for mil and then some copywriting
+</pre>
+4/7/2024
+<pre>
+worked on entrep. and mil editing, barely did any coding
+</pre>
+4/8/2024
+<pre>
+work immersion was just like a lecture? it wasn't really work at all but i learned something in AI, amchine learning, and data science, also it was pretty cool how they were able to create an AI code for python regarding image detection. also finished the css course of codedex planning to finish the project tomorrow and work on the bio project that we have
 </pre>
