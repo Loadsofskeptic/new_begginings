@@ -190,3 +190,12 @@ worked on entrep. and mil editing, barely did any coding
 <pre>
 work immersion was just like a lecture? it wasn't really work at all but i learned something in AI, amchine learning, and data science, also it was pretty cool how they were able to create an AI code for python regarding image detection. also finished the css course of codedex planning to finish the project tomorrow and work on the bio project that we have
 </pre>
+
+4/9/2024
+<pre>
+finished rlcraft, then worked on a bit of css and finished the css course of codedex
+</pre>
+4/10/2024
+<pre>
+finished three parts of the js course and one of the checkpoints, started working on the css project as well, and worked out, also finished the bio researching, and helped w/ planning the entrep. planning to use this to springboard myself
+</pre>
