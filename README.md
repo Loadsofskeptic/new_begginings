@@ -199,3 +199,8 @@ finished rlcraft, then worked on a bit of css and finished the css course of cod
 <pre>
 finished three parts of the js course and one of the checkpoints, started working on the css project as well, and worked out, also finished the bio researching, and helped w/ planning the entrep. planning to use this to springboard myself
 </pre>
+
+4/11/2024
+<pre>
+finished js course in codedex, finished the js checkpoints in codedex, had prestudy for physics, and a bit of chemistry, worked on electronic circuits.
+</pre>
