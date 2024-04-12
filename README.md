@@ -204,3 +204,11 @@ finished three parts of the js course and one of the checkpoints, started workin
 <pre>
 finished js course in codedex, finished the js checkpoints in codedex, had prestudy for physics, and a bit of chemistry, worked on electronic circuits.
 </pre>
+
+4/12/2024
+<pre>
+all basic functionalities for the cs50w project done
+just need to do some of the styling
+also learned a bit industrial engineering
+i wonder how can i improve it.
+</pre>
