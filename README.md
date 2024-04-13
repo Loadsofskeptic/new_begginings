@@ -212,3 +212,7 @@ just need to do some of the styling
 also learned a bit industrial engineering
 i wonder how can i improve it.
 </pre>
+4/13/2024
+<pre>
+architecture for work immersion, started planning out the projects for html, learned a bit of physics
+</pre>
