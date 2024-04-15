@@ -216,3 +216,11 @@ i wonder how can i improve it.
 <pre>
 architecture for work immersion, started planning out the projects for html, learned a bit of physics
 </pre>
+4/14/2024
+<pre>
+I just rested, took advertisement, and discussed plans.
+</pre>
+4/15/2024
+<pre>
+worked on knowing how to center a div and worked on the entrep. project. script
+</pre>
