@@ -224,3 +224,19 @@ I just rested, took advertisement, and discussed plans.
 <pre>
 worked on knowing how to center a div and worked on the entrep. project. script
 </pre>
+4/16/2024
+<pre>
+i forgot what i did here tbh, i think the main thing was that i recorded stuff.
+</pre>
+4/17/2024
+<pre>
+took err civil engineering, and won 500p yippee, also learned how to published a site in github pages.
+</pre>
+4/18/2024
+<pre>
+learned how to weld, learned a bit of math mainly postulates and theorems for triangles and yeah...
+</pre>
+4/19/2024
+<pre>
+did chemical engineering today, finished the business entrep ppt, and relearned abit about thermodynamics.
+</pre>
