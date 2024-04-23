@@ -240,3 +240,19 @@ learned how to weld, learned a bit of math mainly postulates and theorems for tr
 <pre>
 did chemical engineering today, finished the business entrep ppt, and relearned abit about thermodynamics.
 </pre>
+4/20/2024
+<pre>
+learned more about physics, learned about thermodynamics, kinetics, kinematics
+</pre>
+4/21/2024
+<pre>
+learned more about physics and mathematics
+</pre>
+4/22/2024
+<pre>
+took a contest, and struck my ego, i need to be better
+</pre>
+4/23/2024
+<pre>
+last day of tip, my ego is low, I am not being able to do anything, i'll try to add a bit of details in the resume page
+</pre>
