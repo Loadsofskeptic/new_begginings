@@ -256,3 +256,7 @@ took a contest, and struck my ego, i need to be better
 <pre>
 last day of tip, my ego is low, I am not being able to do anything, i'll try to add a bit of details in the resume page
 </pre>
+4/24/2024
+<pre>
+worked on work immersion stuff, worked on philosophy ppt, planning to finish all of my school work.
+</pre>
