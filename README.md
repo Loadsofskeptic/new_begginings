@@ -264,3 +264,7 @@ worked on work immersion stuff, worked on philosophy ppt, planning to finish all
 <pre>
 worked on philosophy, worked on passing the work immersion, worked on the google chrome site  
 </pre>
+4/26/2024
+<pre>
+worked out, and worked on the html project, finished both google images and google, plannign to finish advanced search tomorrow, hopefully. finished the entrep homework, finished the physics assignment, finished the script, learned a bit about grey and black water system. that's it.
+</pre>
