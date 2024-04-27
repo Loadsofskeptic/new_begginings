@@ -268,3 +268,7 @@ worked on philosophy, worked on passing the work immersion, worked on the google
 <pre>
 worked out, and worked on the html project, finished both google images and google, plannign to finish advanced search tomorrow, hopefully. finished the entrep homework, finished the physics assignment, finished the script, learned a bit about grey and black water system. that's it.
 </pre>
+4/27/2024
+<pre>
+read a bit of news, planning to take codeforces, finished the cs50w project (just have to record), read a bit of manga. very cool
+</pre>
