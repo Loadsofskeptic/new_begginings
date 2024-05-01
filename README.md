@@ -272,3 +272,19 @@ worked out, and worked on the html project, finished both google images and goog
 <pre>
 read a bit of news, planning to take codeforces, finished the cs50w project (just have to record), read a bit of manga. very cool
 </pre>
+4/28/2024
+<pre>
+I forgot...
+</pre>
+4/29/2024
+<pre>
+read manga, watched some chinese drama, continued on some of my school work
+</pre>
+4/30/2024
+<pre>
+studied biology for a bit
+</pre>
+5/1/2024
+<pre>
+did some of the projects and still continued to study for biology
+</pre>
