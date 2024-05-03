@@ -290,7 +290,7 @@ did some of the projects and still continued to study for biology
 </pre>
 5/2/2024
 <pre>
-coded some roblox studio scripts yeah
+coded some roblox studio scripts yeah, finished circuit project
 </pre>
 5/3/2024
 <pre>
