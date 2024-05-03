@@ -292,3 +292,7 @@ did some of the projects and still continued to study for biology
 <pre>
 coded some roblox studio scripts yeah
 </pre>
+5/3/2024
+<pre>
+somehow fixed the roblox code, but the placer thing still is a bit buggy, would have  to revisit it  once i have some clarity, finished the entire work immersion thing tho, just gotta finish the iphp
+</pre>
