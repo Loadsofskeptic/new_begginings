@@ -288,3 +288,7 @@ studied biology for a bit
 <pre>
 did some of the projects and still continued to study for biology
 </pre>
+5/2/2024
+<pre>
+coded some roblox studio scripts yeah
+</pre>
