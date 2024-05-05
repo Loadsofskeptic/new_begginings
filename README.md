@@ -296,3 +296,11 @@ coded some roblox studio scripts yeah, finished circuit project
 <pre>
 somehow fixed the roblox code, but the placer thing still is a bit buggy, would have  to revisit it  once i have some clarity, finished the entire work immersion thing tho, just gotta finish the iphp
 </pre>
+5/4/2024
+<pre>
+procrastination
+</pre>
+5/5/2024
+<pre>
+procrastination, nothing
+</pre>
