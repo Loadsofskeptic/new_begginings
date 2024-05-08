@@ -304,3 +304,15 @@ procrastination
 <pre>
 procrastination, nothing
 </pre>
+5/6/2024
+<pre>
+work immersion ahh/ biology
+</pre>
+5/7/2024
+<pre>
+studied bio/ physics/ philo
+</pre>
+5/8/2024
+<pre>
+studied physics/ phulo
+</pre>
