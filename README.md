@@ -316,3 +316,7 @@ studied bio/ physics/ philo
 <pre>
 studied physics/ phulo
 </pre>
+5/9/2024
+<pre>
+ate in feast day, finished entrep. finished iphp, imma do the picture of iphp later
+</pre>
