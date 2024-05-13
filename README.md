@@ -320,3 +320,23 @@ studied physics/ phulo
 <pre>
 ate in feast day, finished entrep. finished iphp, imma do the picture of iphp later
 </pre>
+5/10/2024
+<pre>
+procastinated
+</pre>
+5/11/2024
+<pre>
+worked on cled
+</pre>
+5/12/22024
+<pre>
+finished cled and then procastinated
+</pre>
+5/13/2024
+<pre>
+finished ben's comission ig  
+</pre>
+5/14/2024
+<pre>
+worked a bitof roblox coding
+</pre>
