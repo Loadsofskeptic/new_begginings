@@ -340,3 +340,11 @@ finished ben's comission ig
 <pre>
 worked a bitof roblox coding
 </pre>
+5/15/2024
+<pre>
+finished faith journla
+</pre>
+5/16/2024
+<pre>
+
+</pre>
