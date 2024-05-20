@@ -365,4 +365,5 @@ finished faith journla
 4/20/2024
 <pre>
   stretched a bit
+  fixed conveyor and dropper bug
 </pre>
