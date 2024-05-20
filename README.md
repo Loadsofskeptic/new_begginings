@@ -348,3 +348,21 @@ finished faith journla
 <pre>
   placed my code in github for rs
 </pre>
+4/17/2024
+<pre>
+  vaccination
+</pre>
+4/18/2024
+<pre>
+  bought gift
+  played
+</pre>
+4/19/2024
+<pre>
+  ate
+  rest day
+</pre>
+4/20/2024
+<pre>
+  stretched a bit
+</pre>
