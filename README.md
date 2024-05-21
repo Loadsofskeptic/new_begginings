@@ -368,5 +368,12 @@ finished faith journla
   fixed conveyor and dropper bug
   worked out for a bit
   finished bens commision i guess
-
+</pre>
+4/21/2024
+<pre>
+  finished the placement for furnace and multiplier
+  strecthed a bit
+  learned a bit about datastores/ will cont. tomorrow
+  add a debounce to fix the multi click for buttons
+  add a debri function to automatically remove parts
 </pre>
