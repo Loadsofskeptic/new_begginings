@@ -362,18 +362,23 @@ finished faith journla
   ate
   rest day
 </pre>
-4/20/2024
+5/20/2024
 <pre>
   stretched a bit
   fixed conveyor and dropper bug
   worked out for a bit
   finished bens commision i guess
 </pre>
-4/21/2024
+5/21/2024
 <pre>
   finished the placement for furnace and multiplier
   strecthed a bit
   learned a bit about datastores/ will cont. tomorrow
   add a debounce to fix the multi click for buttons
   add a debri function to automatically remove parts
+</pre>
+5/22/2024
+<pre>
+  limited number of placeable items
+  ability to cancel placement
 </pre>
