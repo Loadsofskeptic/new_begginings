@@ -382,3 +382,11 @@ finished faith journla
   limited number of placeable items
   ability to cancel placement
 </pre>
+5/23/2024
+<pre>
+started working on the uh remove placement
+</pre>
+5.24.2024
+<pre>
+finished the remove placement, but there's a bug where it doesn't show so imma fix it tomorrow
+</pre>
