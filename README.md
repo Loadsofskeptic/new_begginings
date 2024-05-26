@@ -390,3 +390,11 @@ started working on the uh remove placement
 <pre>
 finished the remove placement, but there's a bug where it doesn't show so imma fix it tomorrow
 </pre>
+5/25/26
+<pre>
+relaxed
+</pre>
+5/26/26
+<pre>
+  
+</pre>
