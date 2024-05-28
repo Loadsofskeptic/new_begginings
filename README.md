@@ -390,11 +390,19 @@ started working on the uh remove placement
 <pre>
 finished the remove placement, but there's a bug where it doesn't show so imma fix it tomorrow
 </pre>
-5/25/26
+5/25/24
 <pre>
 relaxed
 </pre>
-5/26/26
+5/26/24
 <pre>
-  
+did some reflecting for thewekk
+</pre>
+5/27/24
+<pre>
+relaxed, did a bit of planning
+</pre>
+5/28/24
+<pre>
+took up some of the outlines, plan to do the essay for plm or ust, will whip up some sketches for reflection, then prob. watch some vids regarding dsa/ and art tips
 </pre>
