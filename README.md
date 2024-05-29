@@ -406,3 +406,7 @@ relaxed, did a bit of planning
 <pre>
 took up some of the outlines, plan to do the essay for plm or ust, will whip up some sketches for reflection, then prob. watch some vids regarding dsa/ and art tips
 </pre>
+5/29/24
+<pre>
+took up the script, and then worked on the composition.
+</pre>
