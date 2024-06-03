@@ -410,3 +410,23 @@ took up some of the outlines, plan to do the essay for plm or ust, will whip up 
 <pre>
 took up the script, and then worked on the composition.
 </pre>
+5/30/24
+<pre> 
+did nothing, just relaxed
+</pre>
+5/31/24
+<pre>
+graduated, very nice
+</pre>
+6/1/24
+<pre>
+got my report card very nice and did some roblox studio coding very epik started w/ module scripts to create that save event system
+</pre>
+6/2/24
+<pre>
+did nothing and just basically drew and whipped up some stuff
+</pre>
+6/3/24
+<pre> 
+a bit of trading and exercising
+</pre>
