@@ -430,3 +430,7 @@ did nothing and just basically drew and whipped up some stuff
 <pre> 
 a bit of trading and exercising
 </pre>
+6/4/24
+<pre>
+did nothing
+</pre>
