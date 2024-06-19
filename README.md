@@ -438,7 +438,12 @@ did nothing
 <pre>
 did nothing
 </pre>
+<pre>
 10
 did nothing
 11 12
 worked out
+17 worked out
+18 did week 1 of cs50
+19 did week 2 and currently doing week 3 of cs50
+</pre>
