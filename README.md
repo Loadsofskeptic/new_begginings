@@ -447,3 +447,12 @@ worked out
 18 did week 1 of cs50
 19 did week 2 and currently doing week 3 of cs50
 </pre>
+<pre>
+20 uhh did week 3 sort and plurality
+</pre>
+<pre>
+21 was stuck but managed to do runoff
+</pre>
+<pre>
+22 watching the memory vid of cs50
+</pre>
