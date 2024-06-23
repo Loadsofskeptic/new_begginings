@@ -456,3 +456,7 @@ worked out
 <pre>
 22 watching the memory vid of cs50
 </pre>
+23
+<pre>
+finished watching memory vid of cs50
+</pre>
