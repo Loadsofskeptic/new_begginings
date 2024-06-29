@@ -460,3 +460,7 @@ worked out
 <pre>
 finished watching memory vid of cs50
 </pre>
+29
+<pre>
+finished week 4 of cs50
+</pre>
