@@ -464,3 +464,8 @@ finished watching memory vid of cs50
 <pre>
 finished week 4 of cs50
 </pre>
+july 7
+<pre>
+  after a long fought battle
+  i've finished week 5 and i'm planning to finish week 6 today
+</pre>
