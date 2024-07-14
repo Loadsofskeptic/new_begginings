@@ -469,3 +469,7 @@ july 7
   after a long fought battle
   i've finished week 5 and i'm planning to finish week 6 today
 </pre>
+jul 14
+<pre>
+finished week 6-7 planning to continue week 8 later on
+</pre>
