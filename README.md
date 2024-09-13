@@ -473,3 +473,8 @@ jul 14
 <pre>
 finished week 6-7 planning to continue week 8 later on
 </pre>
+sept 14
+<pre>
+actually long since i've updated this, but i'm pretty chill right now, am currently in coolege, stuff's pretty cool, met some peeps who constantly influences me, am now doing some chinese stuff, and uh did some assignments as well.
+
+</pre>
